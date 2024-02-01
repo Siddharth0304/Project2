@@ -1,4 +1,3 @@
-# New Repo
+# New Project
 
-Uploading local file into Github.
-Created by Siddharth Kamlekar
+Uploading local file. Created by Siddharth.
